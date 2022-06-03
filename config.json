@@ -1,0 +1,18 @@
+{
+    "piyasayaSunuluş": "21.05.2022 - 19:00",
+    "embed": {
+        "color": "5824e4",
+        "footer": "Bothane 🔥"
+    },
+    "links": {
+        "supportServer": "https://discord.gg/r6yH6EMgh3",
+        "website": "https://bothane.xyz"
+    },
+    "Client": {
+        "PREFIX": "!",
+        "TOKEN": " Bot Token ",
+        "Activity": "Bothane 💖",
+        "Refresh": false,
+        "Owners": ["816206439097434174"]
+    }
+}
